@@ -1,5 +1,8 @@
 # Minimoog
-A minimoog simulation with PYO and PySimpleGui
+A minimoog simulation with PYO and PySimpleGui (WORK IN PROGRESS)
+
+Pyo version: 1.0.4
+PySimpleGUI version: 4.60.4
 
 Minimoog Model D Manual:
 
