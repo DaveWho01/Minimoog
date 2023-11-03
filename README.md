@@ -1,13 +1,11 @@
 # Minimoog
-A minimoog simulation with PYO and PySimpleGui (WORK IN PROGRESS)
+A minimoog simulation with PYO and PySimpleGui for a University project
 
 I'm using
 Pyo version: 1.0.4
 PySimpleGUI version: 4.60.4
 
-minimoog.py is the main synth code.
-Probably it's not the best code you've seen, i tried my best :)
-
+(It works with midi input!)
 
 Minimoog Model D Manual:
 
